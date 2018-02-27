@@ -293,6 +293,10 @@ body {
     color: #F26419
 }
 
+.color-inverse {
+    color: #fff;
+}
+
 .reveal figcaption {
     font-size: .5em;
     margin-top: 1rem;

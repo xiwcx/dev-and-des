@@ -1,20 +1,20 @@
-<svg id="bff92a58-2a7a-477a-9956-8faaf4b6269b" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="900" viewBox="0 0 1200 900">
+<svg id="b1bcd1df-225d-40dd-9600-e35f8546982c" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="900" viewBox="0 0 1200 900">
   <defs>
-    <linearGradient id="cb36ed12-343c-4e7d-8254-019b280914ef" x1="400" y1="530" x2="800" y2="530" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bdeaab0d-926b-409e-848e-712b149dc83d" x1="400" y1="530" x2="800" y2="530" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#f6ae2d"/>
       <stop offset="0.5" stop-color="#55dde0"/>
       <stop offset="1" stop-color="#33658a"/>
     </linearGradient>
-    <linearGradient id="8ba32bd4-eac4-4f61-8e8b-17f1015ca6a0" y1="470" y2="470" xlink:href="#cb36ed12-343c-4e7d-8254-019b280914ef"/>
-    <linearGradient id="edeb5c4d-10f5-4302-8a3f-614a4e3ac391" y1="400" y2="400" xlink:href="#cb36ed12-343c-4e7d-8254-019b280914ef"/>
-    <linearGradient id="a4aeaa69-efbe-43cc-9187-84971af8327b" y1="340" y2="340" xlink:href="#cb36ed12-343c-4e7d-8254-019b280914ef"/>
+    <linearGradient id="840c1e23-b3ee-49be-a392-92359fdff5b7" y1="470" y2="470" xlink:href="#bdeaab0d-926b-409e-848e-712b149dc83d"/>
+    <linearGradient id="6c671885-3bb0-469d-a749-2caaba0438a8" y1="400" y2="400" xlink:href="#bdeaab0d-926b-409e-848e-712b149dc83d"/>
+    <linearGradient id="658666b0-bcdb-406c-adf6-f8e308278a4f" y1="340" y2="340" xlink:href="#bdeaab0d-926b-409e-848e-712b149dc83d"/>
   </defs>
   <title>team-shape-1</title>
   <g>
-    <rect x="400" y="510" width="400" height="40" style="fill: url(#cb36ed12-343c-4e7d-8254-019b280914ef)"/>
-    <rect x="400" y="450" width="400" height="40" style="fill: url(#8ba32bd4-eac4-4f61-8e8b-17f1015ca6a0)"/>
-    <rect x="400" y="380" width="400" height="40" style="fill: url(#edeb5c4d-10f5-4302-8a3f-614a4e3ac391)"/>
-    <rect x="400" y="320" width="400" height="40" style="fill: url(#a4aeaa69-efbe-43cc-9187-84971af8327b)"/>
+    <rect x="400" y="510" width="400" height="40" style="fill: url(#bdeaab0d-926b-409e-848e-712b149dc83d)"/>
+    <rect x="400" y="450" width="400" height="40" style="fill: url(#840c1e23-b3ee-49be-a392-92359fdff5b7)"/>
+    <rect x="400" y="380" width="400" height="40" style="fill: url(#6c671885-3bb0-469d-a749-2caaba0438a8)"/>
+    <rect x="400" y="320" width="400" height="40" style="fill: url(#658666b0-bcdb-406c-adf6-f8e308278a4f)"/>
     <text transform="translate(320 350)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DE<tspan x="18.36" y="0" style="letter-spacing: -0.010970052083333333em">V</tspan><tspan x="26.83" y="0" xml:space="preserve" style="letter-spacing: -0.00003255208333333333em"> #1</tspan></text>
     <text transform="translate(320 410)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DE<tspan x="18.36" y="0" style="letter-spacing: -0.010970052083333333em">V</tspan><tspan x="26.83" y="0" xml:space="preserve" style="letter-spacing: -0.00003255208333333333em"> #2</tspan></text>
     <text transform="translate(320 470)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DE<tspan x="18.36" y="0" style="letter-spacing: -0.010970052083333333em">V</tspan><tspan x="26.83" y="0" xml:space="preserve" style="letter-spacing: -0.00003255208333333333em"> #3</tspan></text>
