@@ -1,0 +1,38 @@
+<svg id="5ca76811-4f1b-48c1-937c-258275f79419" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <title>team-shape-2</title>
+  <rect x="401" y="330" width="100" height="40" style="fill: #f26419"/>
+  <rect x="701" y="500" width="100" height="40" style="fill: #33658a"/>
+  <rect x="501" y="380" width="100" height="40" style="fill: #f6ae2d"/>
+  <rect x="601" y="440" width="100" height="40" style="fill: #55dde0"/>
+  <text transform="translate(321 410)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DE<tspan x="18.36" y="0" style="letter-spacing: -0.010970052083333333em">V</tspan><tspan x="26.83" y="0" xml:space="preserve" style="letter-spacing: -0.00003255208333333333em"> #1</tspan></text>
+  <text transform="translate(321 470)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DE<tspan x="18.36" y="0" style="letter-spacing: -0.010970052083333333em">V</tspan><tspan x="26.83" y="0" xml:space="preserve" style="letter-spacing: -0.00003255208333333333em"> #2</tspan></text>
+  <text transform="translate(321 530)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DE<tspan x="18.36" y="0" style="letter-spacing: -0.010970052083333333em">V</tspan><tspan x="26.83" y="0" xml:space="preserve" style="letter-spacing: -0.00003255208333333333em"> #3</tspan></text>
+  <text transform="translate(301 350)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DESIGNER</text>
+  <line x1="400.5" y1="299.5" x2="400.5" y2="559.74" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+  <line x1="801" y1="299.76" x2="801" y2="560" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+  <g style="opacity: 0.5">
+    <g>
+      <line x1="500" y1="299.76" x2="500" y2="304.76" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+      <line x1="500" y1="324.01" x2="500" y2="545.38" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px;stroke-dasharray: 9.624603271484375,19.24920654296875"/>
+      <line x1="500" y1="555" x2="500" y2="560" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+    </g>
+  </g>
+  <g style="opacity: 0.5">
+    <g>
+      <line x1="600" y1="299.76" x2="600" y2="304.76" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+      <line x1="600" y1="324.01" x2="600" y2="545.38" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px;stroke-dasharray: 9.624603271484375,19.24920654296875"/>
+      <line x1="600" y1="555" x2="600" y2="560" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+    </g>
+  </g>
+  <g style="opacity: 0.5">
+    <g>
+      <line x1="700" y1="299.76" x2="700" y2="304.76" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+      <line x1="700" y1="324.01" x2="700" y2="545.38" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px;stroke-dasharray: 9.624603271484375,19.24920654296875"/>
+      <line x1="700" y1="555" x2="700" y2="560" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+    </g>
+  </g>
+  <text transform="translate(519.1 280)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700"><tspan style="letter-spacing: -0.005989583333333334em">B</tspan><tspan x="9.54" y="0">ACKEND</tspan></text>
+  <text transform="translate(643.12 280)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">JS</text>
+  <text transform="translate(743.94 280)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">UI</text>
+  <text transform="translate(425.48 280)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DESIGN</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="204b848b-9b51-4e95-bdef-f350fea23b1d" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="3bfac445-73b3-4e59-b651-0f492b849dc8" x1="600" y1="572" x2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#55dde0"/>
+      <stop offset="1" stop-color="#33658a"/>
+    </linearGradient>
+  </defs>
+  <title>wild-west</title>
+  <rect width="1200" height="572" style="fill: url(#3bfac445-73b3-4e59-b651-0f492b849dc8)"/>
+  <rect y="570" width="1200" height="330" style="fill: #f6ae2d"/>
+  <path d="M192,570c164.1,0,122.45-220,273.5-220S574.9,570,739,570" style="fill: #f26419;fill-rule: evenodd"/>
+</svg>

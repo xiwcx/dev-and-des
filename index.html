@@ -1,49 +1,234 @@
 <!doctype html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Welch Canavan | Effectively Bridging Development and Design</title>
+        <meta name="description" content="Welch Canavan | Effectively Bridging Development and Design">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>reveal.js</title>
+        <link rel="stylesheet" href="css/reveal.css">
+        <link rel="stylesheet" href="assets/styles.css">
+    </head>
+    <body>
+        <div class="reveal">
+            <div class="slides">
+                <section>
+                    <h1>
+                        Effectively Bridging Development and Design
+                    </h1>
+                </section>
 
-		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/black.css">
+                <section>
+                    <img class="plain" src="assets/images/failure.png" alt="screenshot of website composition">
+                </section>
 
-		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="lib/css/zenburn.css">
+                <section data-background-image="assets/images/cracks.svg">
+                    <h2>Where are the cracks?</h2>
 
-		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
-	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
-			</div>
-		</div>
+                    <aside class="notes">
+                        <ul>
+                            <li>
+                                we're goint to talk a little bit about organization and foundation
+                            </li>
+                            <li>
+                                assuming agile
+                            </li>
+                        </ul>
+                    </aside>
+                </section>
 
-		<script src="lib/js/head.min.js"></script>
-		<script src="js/reveal.js"></script>
+                <section>
+                    <svg id="17822b22-9287-47b0-9af9-d96840de03cd" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 900">
+                      <defs>
+                        <linearGradient id="5a20f96f-2897-44de-86ca-4483a32834f1" x1="400" y1="530" x2="800" y2="530" gradientUnits="userSpaceOnUse">
+                          <stop offset="0" stop-color="#f6ae2d"/>
+                          <stop offset="0.5" stop-color="#55dde0"/>
+                          <stop offset="1" stop-color="#33658a"/>
+                        </linearGradient>
+                        <linearGradient id="6fe41beb-d260-4cac-8f77-6aa2ad91ef93" y1="470" y2="470" xlink:href="#5a20f96f-2897-44de-86ca-4483a32834f1"/>
+                        <linearGradient id="25146c41-aa24-40f4-a9cb-0de66cced240" y1="400" y2="400" xlink:href="#5a20f96f-2897-44de-86ca-4483a32834f1"/>
+                        <linearGradient id="d28874b9-dd1d-4f16-9f72-25fd64431d9c" y1="340" y2="340" xlink:href="#5a20f96f-2897-44de-86ca-4483a32834f1"/>
+                      </defs>
+                      <title>team-shape-1</title>
+                      <g>
+                        <rect x="400" y="510" width="400" height="40" style="fill: url(#5a20f96f-2897-44de-86ca-4483a32834f1)"/>
+                        <rect x="400" y="450" width="400" height="40" style="fill: url(#6fe41beb-d260-4cac-8f77-6aa2ad91ef93)"/>
+                        <rect x="400" y="380" width="400" height="40" style="fill: url(#25146c41-aa24-40f4-a9cb-0de66cced240)"/>
+                        <rect x="400" y="320" width="400" height="40" style="fill: url(#d28874b9-dd1d-4f16-9f72-25fd64431d9c)"/>
+                        <text transform="translate(320 350)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DE<tspan x="18.36" y="0" style="letter-spacing: -0.010970052083333333em">V</tspan><tspan x="26.83" y="0" xml:space="preserve" style="letter-spacing: -0.00003255208333333333em"> #1</tspan></text>
+                        <text transform="translate(320 410)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DE<tspan x="18.36" y="0" style="letter-spacing: -0.010970052083333333em">V</tspan><tspan x="26.83" y="0" xml:space="preserve" style="letter-spacing: -0.00003255208333333333em"> #2</tspan></text>
+                        <text transform="translate(320 470)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DE<tspan x="18.36" y="0" style="letter-spacing: -0.010970052083333333em">V</tspan><tspan x="26.83" y="0" xml:space="preserve" style="letter-spacing: -0.00003255208333333333em"> #3</tspan></text>
+                        <text transform="translate(320 530)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DE<tspan x="18.36" y="0" style="letter-spacing: -0.010970052083333333em">V</tspan><tspan x="26.83" y="0" xml:space="preserve" style="letter-spacing: -0.00003255208333333333em"> #4</tspan></text>
+                        <line x1="399.5" y1="299.5" x2="399.5" y2="559.74" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+                        <line x1="801" y1="299.76" x2="801" y2="560" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+                        <g style="opacity: 0.5">
+                          <g>
+                            <line x1="499" y1="299.76" x2="499" y2="304.76" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+                            <line x1="499" y1="324.01" x2="499" y2="545.38" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px;stroke-dasharray: 9.624603271484375,19.24920654296875"/>
+                            <line x1="499" y1="555" x2="499" y2="560" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+                          </g>
+                        </g>
+                        <g style="opacity: 0.5">
+                          <g>
+                            <line x1="599" y1="299.76" x2="599" y2="304.76" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+                            <line x1="599" y1="324.01" x2="599" y2="545.38" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px;stroke-dasharray: 9.624603271484375,19.24920654296875"/>
+                            <line x1="599" y1="555" x2="599" y2="560" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+                          </g>
+                        </g>
+                        <g style="opacity: 0.5">
+                          <g>
+                            <line x1="699" y1="299.76" x2="699" y2="304.76" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+                            <line x1="699" y1="324.01" x2="699" y2="545.38" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px;stroke-dasharray: 9.624603271484375,19.24920654296875"/>
+                            <line x1="699" y1="555" x2="699" y2="560" style="fill: none;stroke: #000;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 10px"/>
+                          </g>
+                        </g>
+                        <text transform="translate(418.1 280)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700"><tspan style="letter-spacing: -0.005989583333333334em">B</tspan><tspan x="9.54" y="0">ACKEND</tspan></text>
+                        <text transform="translate(712.76 280)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">FRONTEND</text>
+                      </g>
+                      <g class="fragment">
+                        <path d="M197,59.81c-2.33.12-5.36.38-7.11.64-5.55.8-13.51,4.17-19.9,8.42a56.81,56.81,0,0,0-9.46,7.72,45.34,45.34,0,0,0-8,10.34l-1.07,1.83-1.23-.58a46,46,0,0,0-28.62-2.84A47.31,47.31,0,0,0,102.21,95.8c-.63.57-1.26,1.11-1.38,1.21-.4.29-3.16,3.31-4.14,4.53a41.45,41.45,0,0,0-4,6.27c-2.51,5-4.67,12.32-5,16.85l-.08,1.3-3,1.47a41.86,41.86,0,0,0-12.37,9.11,41.15,41.15,0,0,0-7.77,10.56,41.7,41.7,0,0,0-3.85,26.45,42.29,42.29,0,0,0,11.41,21.69c6.51,6.76,11.49,9.7,20,11.86,4.44,1.11,8.76,1.44,21.38,1.64,2.29,0,5.5.08,7.1.12,14.62.29,106.3.46,114.08.2,10-.32,14.63-.66,18.88-1.38a41.11,41.11,0,0,0,11.06-3.48A41,41,0,0,0,287,181.09a45.26,45.26,0,0,0,2.54-22.46,44.61,44.61,0,0,0-7.16-17.49,52.65,52.65,0,0,0-7.92-8.56,43,43,0,0,0-16.81-9c-1.39-.37-1.68-.49-1.68-.67s.14-1.25.32-2.53a33.54,33.54,0,0,0,.32-6.07,39.65,39.65,0,0,0-.83-9.22A59,59,0,0,0,244.7,80.93,53.83,53.83,0,0,0,230.44,68c-5.81-3.48-15.4-7.24-20.16-7.89A84.84,84.84,0,0,0,197,59.81Z" style="fill: #f26419"/>
+                        <text transform="translate(95.96 170)" style="font-size: 30px;fill: #fff;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DESIGN/<tspan x="112.83" y="0" style="letter-spacing: -0.01298828125em">U</tspan><tspan x="131.88" y="0" style="letter-spacing: -0.017008463541666668em">X</tspan></text>
+                      </g>
+                    </svg>
+                </section>
 
-		<script>
-			// More info about config & dependencies:
-			// - https://github.com/hakimel/reveal.js#configuration
-			// - https://github.com/hakimel/reveal.js#dependencies
-			Reveal.initialize({
-				dependencies: [
-					{ src: 'plugin/markdown/marked.js' },
-					{ src: 'plugin/markdown/markdown.js' },
-					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
-				]
-			});
-		</script>
-	</body>
+                <section>
+                    <img class="plain" src="assets/images/team-shape-2.svg" alt="screenshot of website composition">
+                </section>
+
+                <section>
+                    <img class="plain" src="assets/images/t-shaped-skills.svg" alt="screenshot of website composition">
+                </section>
+
+                <section>
+                    <img class="plain" src="assets/images/team-shape-3.svg" alt="screenshot of website composition">
+                </section>
+
+                <section>
+                    <img class="plain" src="assets/images/team-shape-4.svg" alt="screenshot of website composition">
+                </section>
+
+                <section>
+                    <h3 class="color-primary">
+                        #1 (Company)
+                    </h3>
+
+                    <h2>
+                        Build Smart Teams
+                    </h2>
+                </section>
+
+                <section>
+                    <h3 class="color-secondary">
+                        #2 (Team)
+                    </h3>
+
+                    <h2>
+                        What is good for people is good for the developers
+                    </h2>
+                </section>
+
+                <section>
+                    <h3>
+                        <abbr title="Don't Repeat Yourself">DRY</abbr> is a Design principle
+                    </h3>
+                </section>
+
+                <section>
+                    <figcaption>
+                        <img class="plain" src="assets/images/buttons-bad.png" alt="an overwhelming amount of inconsistent buttons">
+
+                        <figcaption>(source: <a href="http://alistapart.com/blog/post/on-our-radar-special-snowflake">http://alistapart.com/blog/post/on-our-radar-special-snowflake</a>)</figcaption>
+                    </figcaption>
+                </section>
+
+                <section>
+                    <figcaption>
+                        <img class="plain" src="assets/images/buttons-good.png" alt="a reasonable amount of consistent buttons">
+
+                        <figcaption>(source: <a href="http://peterspannagle.com/style-guide/">http://peterspannagle.com/style-guide/</a>)</figcaption>
+                    </figcaption>
+                </section>
+
+                <section>
+                    <h3 class="color-secondary">
+                        #3 (Team)
+                    </h3>
+
+                    <h2>
+                        Develop common vocabularies
+                    </h2>
+                </section>
+
+                <section>
+                    <h3>
+                        Take an interest in each other's work
+                    </h3>
+                </section>
+
+                <section>
+                    <h3>
+                        Strive for a universal lexicon across your organization
+                    </h3>
+                </section>
+
+                <section>
+                    <h3 class="color-tertiary">
+                        #4 (Career)
+                    </h3>
+
+                    <h2>
+                        Be a squeaky wheel
+                    </h2>
+                </section>
+
+                <section>
+                    <h3 class="color-primary">
+                        #5 (Company)
+                    </h3>
+
+                    <h2>
+                        <em>Nurture</em> squeaky wheels
+                    </h2>
+                </section>
+
+                <section>
+                    <h3 class="color-tertiary">
+                        #6 (Career)
+                    </h3>
+
+                    <h2>
+                        Bring receipts
+                    </h2>
+                </section>
+
+                <section>
+                    <figcaption>
+                        <img class="plain" src="assets/images/no-one-knows.png" alt="screenshot of website composition">
+
+                        <figcaption>(source: <a href="- https://twitter.com/seanrose/status/964304631869292545">- https://twitter.com/seanrose/status/964304631869292545</a>)</figcaption>
+                    </figcaption>
+                </section>
+
+                <section data-background-image="assets/images/wild-west.svg">
+                    <h1>
+                        We're still
+                    </h1>
+                </section>
+            </div>
+        </div>
+
+        <script src="lib/js/head.min.js"></script>
+    		<script src="js/reveal.js"></script>
+        <script>
+            Reveal.initialize({
+      				dependencies: [
+      					{ src: 'plugin/notes/notes.js', async: true },
+      				],
+                    history: true,
+                    transition: 'none'
+      			});
+        </script>
+    </body>
 </html>
