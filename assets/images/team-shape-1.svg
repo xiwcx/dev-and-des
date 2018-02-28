@@ -1,20 +1,20 @@
-<svg id="b1bcd1df-225d-40dd-9600-e35f8546982c" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="900" viewBox="0 0 1200 900">
+<svg id="e1212d1c-1692-4028-9f5e-2ee28b8ea4b9" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="900" viewBox="0 0 1200 900">
   <defs>
-    <linearGradient id="bdeaab0d-926b-409e-848e-712b149dc83d" x1="400" y1="530" x2="800" y2="530" gradientUnits="userSpaceOnUse">
+    <linearGradient id="790165f3-dbbf-4155-81e6-b4a4617ddb37" x1="400" y1="530" x2="800" y2="530" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#f6ae2d"/>
       <stop offset="0.5" stop-color="#55dde0"/>
       <stop offset="1" stop-color="#33658a"/>
     </linearGradient>
-    <linearGradient id="840c1e23-b3ee-49be-a392-92359fdff5b7" y1="470" y2="470" xlink:href="#bdeaab0d-926b-409e-848e-712b149dc83d"/>
-    <linearGradient id="6c671885-3bb0-469d-a749-2caaba0438a8" y1="400" y2="400" xlink:href="#bdeaab0d-926b-409e-848e-712b149dc83d"/>
-    <linearGradient id="658666b0-bcdb-406c-adf6-f8e308278a4f" y1="340" y2="340" xlink:href="#bdeaab0d-926b-409e-848e-712b149dc83d"/>
+    <linearGradient id="14a21cf5-9bc8-4523-838f-b4fbf6ad89ca" y1="470" y2="470" xlink:href="#790165f3-dbbf-4155-81e6-b4a4617ddb37"/>
+    <linearGradient id="34582bec-ee85-4436-b984-aa16e3ed071a" y1="400" y2="400" xlink:href="#790165f3-dbbf-4155-81e6-b4a4617ddb37"/>
+    <linearGradient id="23b1d380-168a-4cf4-b7a9-f447f951f93e" y1="340" y2="340" xlink:href="#790165f3-dbbf-4155-81e6-b4a4617ddb37"/>
   </defs>
   <title>team-shape-1</title>
   <g>
-    <rect x="400" y="510" width="400" height="40" style="fill: url(#bdeaab0d-926b-409e-848e-712b149dc83d)"/>
-    <rect x="400" y="450" width="400" height="40" style="fill: url(#840c1e23-b3ee-49be-a392-92359fdff5b7)"/>
-    <rect x="400" y="380" width="400" height="40" style="fill: url(#6c671885-3bb0-469d-a749-2caaba0438a8)"/>
-    <rect x="400" y="320" width="400" height="40" style="fill: url(#658666b0-bcdb-406c-adf6-f8e308278a4f)"/>
+    <rect x="400" y="510" width="400" height="40" style="fill: url(#790165f3-dbbf-4155-81e6-b4a4617ddb37)"/>
+    <rect x="400" y="450" width="400" height="40" style="fill: url(#14a21cf5-9bc8-4523-838f-b4fbf6ad89ca)"/>
+    <rect x="400" y="380" width="400" height="40" style="fill: url(#34582bec-ee85-4436-b984-aa16e3ed071a)"/>
+    <rect x="400" y="320" width="400" height="40" style="fill: url(#23b1d380-168a-4cf4-b7a9-f447f951f93e)"/>
     <text transform="translate(320 350)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DE<tspan x="18.36" y="0" style="letter-spacing: -0.010970052083333333em">V</tspan><tspan x="26.83" y="0" xml:space="preserve" style="letter-spacing: -0.00003255208333333333em"> #1</tspan></text>
     <text transform="translate(320 410)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DE<tspan x="18.36" y="0" style="letter-spacing: -0.010970052083333333em">V</tspan><tspan x="26.83" y="0" xml:space="preserve" style="letter-spacing: -0.00003255208333333333em"> #2</tspan></text>
     <text transform="translate(320 470)" style="font-size: 15px;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DE<tspan x="18.36" y="0" style="letter-spacing: -0.010970052083333333em">V</tspan><tspan x="26.83" y="0" xml:space="preserve" style="letter-spacing: -0.00003255208333333333em"> #3</tspan></text>
@@ -49,4 +49,5 @@
     <path d="M197,59.81c-2.33.12-5.36.38-7.11.64-5.55.8-13.51,4.17-19.9,8.42a56.81,56.81,0,0,0-9.46,7.72,45.34,45.34,0,0,0-8,10.34l-1.07,1.83-1.23-.58a46,46,0,0,0-28.62-2.84A47.31,47.31,0,0,0,102.21,95.8c-.63.57-1.26,1.11-1.38,1.21-.4.29-3.16,3.31-4.14,4.53a41.45,41.45,0,0,0-4,6.27c-2.51,5-4.67,12.32-5,16.85l-.08,1.3-3,1.47a41.86,41.86,0,0,0-12.37,9.11,41.15,41.15,0,0,0-7.77,10.56,41.7,41.7,0,0,0-3.85,26.45,42.29,42.29,0,0,0,11.41,21.69c6.51,6.76,11.49,9.7,20,11.86,4.44,1.11,8.76,1.44,21.38,1.64,2.29,0,5.5.08,7.1.12,14.62.29,106.3.46,114.08.2,10-.32,14.63-.66,18.88-1.38a41.11,41.11,0,0,0,11.06-3.48A41,41,0,0,0,287,181.09a45.26,45.26,0,0,0,2.54-22.46,44.61,44.61,0,0,0-7.16-17.49,52.65,52.65,0,0,0-7.92-8.56,43,43,0,0,0-16.81-9c-1.39-.37-1.68-.49-1.68-.67s.14-1.25.32-2.53a33.54,33.54,0,0,0,.32-6.07,39.65,39.65,0,0,0-.83-9.22A59,59,0,0,0,244.7,80.93,53.83,53.83,0,0,0,230.44,68c-5.81-3.48-15.4-7.24-20.16-7.89A84.84,84.84,0,0,0,197,59.81Z" style="fill: #f26419"/>
     <text transform="translate(95.96 170)" style="font-size: 30px;fill: #fff;font-family: ChevinPro-Bold, Chevin Pro;font-weight: 700">DESIGN/<tspan x="112.83" y="0" style="letter-spacing: -0.01298828125em">U</tspan><tspan x="131.88" y="0" style="letter-spacing: -0.017008463541666668em">X</tspan></text>
   </g>
+  <polygon points="-527.13 500.12 69.63 775.22 16.23 869.66 -288.75 662.25 -248.1 668.01 -355.51 616.85 -527.13 500.12"/>
 </svg>
